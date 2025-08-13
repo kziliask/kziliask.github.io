@@ -440,18 +440,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-will-be-attending-the-2025-informs-annual-meeting-in-atlanta-ga-from-october-26-29-2025-i-will-be-presenting-my-research-on-neural-network-validation-through-mixed-integer-programming-in-the-session-on-generative-ai-looking-forward-to-connecting-with-fellow-researchers-and-practitioners-in-the-field",
+          title: 'I will be attending the 2025 INFORMS Annual Meeting in Atlanta, GA, from...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-paper-has-been-accepted-at-winter-simulation-conference-2025-the-paper-titled-bridging-the-gap-a-practical-guide-to-implementing-deep-reinforcement-learning-simulation-in-operations-research-with-gymnasium-is-a-tutorial-track-paper-that-provides-a-comprehensive-overview-of-using-gymnasium-for-simulation-in-operations-research-the-conference-will-be-held-in-seattle-wa-from-december-7-10-2025-i-am-excited-to-share-our-findings-and-contribute-to-the-discussions-on-simulation-and-operations-research-methodologies",
+          title: 'Our paper has been accepted at Winter Simulation Conference 2025. The paper, titled...',
+          description: "",
+          section: "News",},{id: "news-announcement-1",
+          title: 'Announcement_1',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+              window.location.href = "/news/announcement_1/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
