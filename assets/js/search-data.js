@@ -446,12 +446,10 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-has-been-accepted-at-winter-simulation-conference-2025-the-paper-titled-bridging-the-gap-a-practical-guide-to-implementing-deep-reinforcement-learning-simulation-in-operations-research-with-gymnasium-is-a-tutorial-track-paper-that-provides-a-comprehensive-overview-of-using-gymnasium-for-simulation-in-operations-research-the-conference-will-be-held-in-seattle-wa-from-december-7-10-2025-i-am-excited-to-share-our-findings-and-contribute-to-the-discussions-on-simulation-and-operations-research-methodologies",
           title: 'Our paper has been accepted at Winter Simulation Conference 2025. The paper, titled...',
           description: "",
-          section: "News",},{id: "news-announcement-1",
-          title: 'Announcement_1',
+          section: "News",},{id: "news-secured-funding-for-the-2nd-ieom-world-congress-through-an-nsf-travel-grant-the-conference-will-take-place-in-windsor-ontario-october-14-16-2025-i-will-be-presenting-a-poster-on-my-research-on-neural-net-validation-through-mixed-integer-programming",
+          title: 'Secured funding for the 2nd IEOM World Congress through an NSF travel grant....',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
