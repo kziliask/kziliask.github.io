@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>3333</p>
+    <p>INSY Office 3333,</p>
     <p>357-359 W Magnolia Ave</p>
     <p>Auburn, AL 36832</p>
 
