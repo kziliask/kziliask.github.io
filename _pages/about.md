@@ -20,11 +20,6 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 Hi there! I'm Konstantinos Ziliaskopoulos, or Dean, a PhD candidate in the Dept of Industrial & Systems Engineering at Auburn University. My research focuses on validating AI models and evaluating their robustness through simulation, benchmarks, and optimization. I am particularly interested in the intersection of operations research and machine learning, with a goal to enhance the reliability of AI systems in real-world applications.
