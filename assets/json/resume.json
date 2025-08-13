@@ -2,7 +2,7 @@
   "basics": {
     "name": "Konstantinos Ziliaskopoulos",
     "label": "PhD Candidate",
-    "image": "",
+    "image": "assets/img/cv_photo.png",
     "email": "kzz0034@auburn.edu",
     "url": "https://kziliask.github.io/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
@@ -39,41 +39,38 @@
       "summary": "Participated in a teaching assistantship for over 200 undergrads in Deterministic Operations Research, Statistical Quality Control, Modern Tools for Data Analytics."
     },
     {
-    "name": "ATHENA Research Center",
-    "position": "Research Associate",
-    "url": "https://www.athenarc.gr/en/home",
-    "startDate": "2022-10-01",
-    "endDate": "2024-05-31",
-    "summary": "Worked on a Horizon Europe project (4.1 million €) focused on biodiversity, BIONEXT.",
-    "highlights": [
-      "Participated and published a systematic literature review of 2633 articles on resource interlinkages by collaborating with 9 other partner institutions in 7 other countries.",
-      "Developed 6 national dynamic simulation models for resource management and their impact on the 17 Sustainable Development Goals in Europe."
-    ]
-  },
-  {
-    "name": "University of Thessaly, Greece",
-    "position": "Research Associate – Data Science, Department of Environmental Sciences",
-    "url": "https://env.uth.gr/en/home-en/",
-    "startDate": "2021-10-01",
-    "endDate": "2024-07-31",
-    "summary": "Worked on 4 interdisciplinary European Horizon 2020 projects with 100+ European partners on data science and machine learning applications on climate hazards and urban sustainability.",
-    "highlights": [
-      "Led part of a 1,000,000€ case study in Athens, Greece, resulting in 3 journal publications on network analysis, knowledge graphs, and graph databases, and quantifying vulnerability through model inference and geospatial data analysis for ARSINOE.",
-      "Managed front-end development for a case study database for over 2000 case studies and set up a GCP database and API to serve the platform."
-    ]
-  },
-  {
-    "name": "SingularLogic",
-    "position": "Early-Stage Researcher",
-    "url": "https://portal.singularlogic.eu/en/",
-    "startDate": "2021-09-01",
-    "endDate": "2022-11-30",
-    "summary": "Secured a 1-year Marie-Curie fellowship on the ENDORSE European HORIZON project.",
-    "highlights": [
-      "Developed a video encoding algorithm in Python.",
-      "Published IEEE conference paper based on the project."
-    ]
-  }
+      "name": "ATHENA Research Center",
+      "position": "Research Associate",
+      "url": "https://www.athenarc.gr/en/home",
+      "startDate": "2022-10-01",
+      "endDate": "2024-05-31",
+      "summary": "Worked on a Horizon Europe project (4.1 million €) focused on biodiversity, BIONEXT.",
+      "highlights": [
+        "Participated and published a systematic literature review of 2633 articles on resource interlinkages by collaborating with 9 other partner institutions in 7 other countries.",
+        "Developed 6 national dynamic simulation models for resource management and their impact on the 17 Sustainable Development Goals in Europe."
+      ]
+    },
+    {
+      "name": "University of Thessaly, Greece",
+      "position": "Research Associate – Data Science, Department of Environmental Sciences",
+      "url": "https://env.uth.gr/en/home-en/",
+      "startDate": "2021-10-01",
+      "endDate": "2024-07-31",
+      "summary": "Worked on 4 interdisciplinary European Horizon 2020 projects with 100+ European partners on data science and machine learning applications on climate hazards and urban sustainability.",
+      "highlights": [
+        "Led part of a 1,000,000€ case study in Athens, Greece, resulting in 3 journal publications on network analysis, knowledge graphs, and graph databases, and quantifying vulnerability through model inference and geospatial data analysis for ARSINOE.",
+        "Managed front-end development for a case study database for over 2000 case studies and set up a GCP database and API to serve the platform."
+      ]
+    },
+    {
+      "name": "SingularLogic",
+      "position": "Early-Stage Researcher",
+      "url": "https://portal.singularlogic.eu/en/",
+      "startDate": "2021-09-01",
+      "endDate": "2022-11-30",
+      "summary": "Secured a 1-year Marie-Curie fellowship on the ENDORSE European HORIZON project.",
+      "highlights": ["Developed a video encoding algorithm in Python.", "Published IEEE conference paper based on the project."]
+    }
   ],
   "education": [
     {
@@ -122,17 +119,10 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Data Science",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "keywords": ["Operations Research", "Machine Learning", "Trustworthy AI", "Reinforcement Learning"]
     }
   ],
   "languages": [
