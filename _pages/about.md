@@ -29,4 +29,4 @@ latest_posts:
 
 Hi there! I'm Konstantinos Ziliaskopoulos, or Dean, a PhD candidate in the Dept of Industrial & Systems Engineering at Auburn University. My research focuses on validating AI models and evaluating their robustness through simulation, benchmarks, and optimization. I am particularly interested in the intersection of operations research and machine learning, with a goal to enhance the reliability of AI systems in real-world applications.
 
-You can find more about my work on the [publications](/publications/) page, or check out my [teaching](/teaching/) experience. If you want to get in touch, feel free to reach out via email or connect with me on social media.
+You can find more about my work on the [publications](/publications/) page, or check out my [teaching](/teaching/) experience. Also, as a recent [Julia](https://julialang.org/) convert, I would love to hear more from other Julia enthusiasts! If you want to get in touch, feel free to reach out via email or connect with me on social media.

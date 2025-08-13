@@ -2,7 +2,7 @@
   "basics": {
     "name": "Konstantinos Ziliaskopoulos",
     "label": "PhD Candidate",
-    "image": "assets/img/cv_photo.png",
+    "image": "cv_photo.png",
     "email": "kzz0034@auburn.edu",
     "url": "https://kziliask.github.io/",
     "summary": "A Texas-born PhD student working on validating AI models and evaluating their robustness through simulation and optimization.",
