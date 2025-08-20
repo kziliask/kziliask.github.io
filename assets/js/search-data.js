@@ -73,7 +73,12 @@ ninja.data = [{
           section: "News",},{id: "news-secured-funding-for-the-2nd-ieom-world-congress-through-an-nsf-travel-grant-the-conference-will-take-place-in-windsor-ontario-october-14-16-2025-i-will-be-presenting-a-poster-on-my-research-on-neural-net-validation-through-mixed-integer-programming",
           title: 'Secured funding for the 2nd IEOM World Congress through an NSF travel grant....',
           description: "",
-          section: "News",},{id: "projects-placeholder",
+          section: "News",},{id: "news-chapman-travel-award-for-wsc-2025",
+          title: 'Chapman Travel Award for WSC 2025',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4.html";
+            },},{id: "projects-placeholder",
           title: 'placeholder',
           description: "with background image",
           section: "Projects",handler: () => {
