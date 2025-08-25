@@ -35,3 +35,4 @@ nav_order: 6
 - **INSY 7100** Adaptive Optimization
 - **MATH 6650** Theory of Nonlinear Optimization
 - **STAT 7970** Causal Inference
+- **INSY 6120** Digital Systems Engineering Design Process

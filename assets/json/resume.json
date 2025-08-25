@@ -5,7 +5,7 @@
     "image": "cv_photo.png",
     "email": "kzz0034@auburn.edu",
     "url": "https://kziliask.github.io/",
-    "summary": "A Texas-born PhD student working on validating AI models and evaluating their robustness through simulation and optimization.",
+    "summary": "A PhD student working on validating AI models and evaluating their robustness through simulation and optimization.",
     "location": {
       "address": "357-359 W Magnolia Ave",
       "postalCode": "36832",
@@ -103,6 +103,12 @@
   ],
   "awards": [
     {
+      "title": "Chapman Foundation Travel Award for WSC",
+      "date": "2025-08-22",
+      "awarder": "Chapman Foundation",
+      "summary": "Secured $1500 for travel and accommodation to attend the Winter Simulation Conference (WSC) 2025 in Seattle, WA, and present a paper through a 90-minute tutorial."
+    },
+    {
       "title": "NSF Travel Award for IEOM World Congress",
       "date": "2025-08-11",
       "awarder": "Dr. Ahad Ali, Lawrence Technological University",
@@ -115,14 +121,6 @@
       "awarder": "European Commission",
       "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/",
       "summary": "Through the Horizon 2020 program ENDORSE, I received a 1-year fellowship to work on video encoding algorithms and publish an IEEE conference paper as an early-stage researcher."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Data Science",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": ["Operations Research", "Machine Learning", "Trustworthy AI", "Reinforcement Learning"]
     }
   ],
   "languages": [
